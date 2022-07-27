@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortGeneric.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortGenericWithComparator.h
+vector
+-
+../comparator/Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortIntegers.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortGeneric.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortGenericWithComparator.h
+vector
+-
+../comparator/Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortIntegers.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortGeneric.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortGenericWithComparator.h
+vector
+-
+../comparator/Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortIntegers.h
+vector
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/ByStateComparator.h
+Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+../entity/MailingAddress.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/MailingAddress.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/CoordinateYXComparator.h
+Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+../entity/Coordinate.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/Coordinate.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/DescendingComparator.h
+Comparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/Comparator.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/Coordinate.h
+string
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/MailingAddress.h
+string
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/utilities/ArrayUtilities.h
+string
+-
+vector
+-
+../entity/MailingAddress.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/MailingAddress.h
+../entity/Coordinate.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/Coordinate.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+../include/entity/Coordinate.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/entity/Coordinate.h
+../include/algorithms/InsertionSortIntegers.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortIntegers.h
+../include/algorithms/InsertionSortGeneric.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortGeneric.h
+../include/algorithms/InsertionSortGenericWithComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/InsertionSortGenericWithComparator.h
+../include/comparator/CoordinateYXComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/CoordinateYXComparator.h
+../include/utilities/ArrayUtilities.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/utilities/ArrayUtilities.h
+../include/algorithms/MergeSortIntegers.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortIntegers.h
+../include/algorithms/MergeSortGeneric.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortGeneric.h
+../include/algorithms/MergeSortGenericWithComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/MergeSortGenericWithComparator.h
+../include/algorithms/QuickSortIntegers.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortIntegers.h
+../include/algorithms/QuickSortGeneric.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortGeneric.h
+../include/algorithms/QuickSortGenericWithComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/algorithms/QuickSortGenericWithComparator.h
+../include/comparator/DescendingComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/DescendingComparator.h
+../include/comparator/ByStateComparator.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/include/comparator/ByStateComparator.h
+

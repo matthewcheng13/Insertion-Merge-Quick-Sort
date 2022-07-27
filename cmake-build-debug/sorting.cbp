@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sorting"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorting">
+				<Option output="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug/sorting" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/sorting/include"/>
+					<Add directory="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/sorting/src"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorting"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorting/fast">
+				<Option output="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug/sorting" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/sorting/include"/>
+					<Add directory="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/sorting/src"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorting/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matthewcheng/Desktop/CSCI\ 303/Projects/sorting/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/InsertionSortGeneric.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/InsertionSortGenericWithComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/InsertionSortIntegers.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/MergeSortGeneric.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/MergeSortGenericWithComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/MergeSortIntegers.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/QuickSortGeneric.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/QuickSortGenericWithComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/algorithms/QuickSortIntegers.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/comparator/ByStateComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/comparator/Comparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/comparator/CoordinateYXComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/comparator/DescendingComparator.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/entity/Coordinate.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/entity/MailingAddress.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/main.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/src/utilities/ArrayUtilities.cpp">
+			<Option target="sorting"/>
+		</Unit>
+		<Unit filename="/Users/matthewcheng/Desktop/CSCI 303/Projects/sorting/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
